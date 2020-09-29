@@ -11,5 +11,4 @@
 - 😄 Pronouns: preiz
 - ⚡ Fun fact: I love putting smiles on peoples face.
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okolipraiz)](https://github.com/anuraghazra/github-readme-stats)
+![okolipraiz's github stats](https://github-readme-stats.vercel.app/api?username=okolipraiz&show_icons=true)
