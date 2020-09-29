@@ -10,4 +10,6 @@
 [Whatsapp +2349013605375](https://wa.me/+2349013605375)
 - 😄 Pronouns: preiz
 - ⚡ Fun fact: I love putting smiles on peoples face.
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okolipraiz)](https://github.com/anuraghazra/github-readme-stats)
