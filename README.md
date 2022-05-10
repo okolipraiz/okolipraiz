@@ -1,7 +1,7 @@
 ### Hello Everyone! I'm Praise Okoli.👋
 
 - 🔭 I’m currently working on my porfolio.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning everying javascript related.
 - 👯 I’m looking to collaborate on github and team collaberation.
 - 🤔 I’m looking for help with mastering js fully.
 - 💬 Ask me about software and tech related stuff.
