@@ -1,9 +1,6 @@
 ### Hello Everyone! I'm Praise Okoli.👋
 
 - 🔭 I’m currently working on my future.
-- 🌱 I’m currently learning everything javascript-related.
-- 👯 I’m looking to collaborate on GitHub and team collaboration.
-- 🤔 I’m mastering JS fully with side projects and gigs.
 - 💬 Ask me about software and tech-related stuff.
 - 📫 How to reach me: [Twitter-@okolipraiz](https://twitter.com/okolipraiz) | 
 [Whatsapp +2349013605375](https://wa.me/+2349013605375)
